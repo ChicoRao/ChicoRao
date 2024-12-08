@@ -10,14 +10,16 @@ I'm a **Software Engineer** / **Full-Stack Developer** currently working at **[L
 - **Databases**: MongoDB, PostgreSQL
 - **Other Tools**: Git, Docker, Kubernetes
 
----
 
 ## 🔭 I’m currently working on ...
 - 🏐🏸 Getting better at **volleyball** and **badminton**.  
 - 🎲 Building my own **game** and learning new technologies.  
-- 🍳 Becoming a **master chef**.  
+- 🍳 Becoming a **master chef**.
 
----
+
+
+
+
 
 ## 🧩 Fun Facts
 - 🎮 I love playing **Minesweeper**.
