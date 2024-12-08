@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rico!
 
-I'm a **Software Engineer** / **Full-Stack Developer** currently working at **[Let's Pair Education](https://www.letspair.ca)**. I love building things and solving problems.
+I'm a **Software Engineer** / **Full-Stack Developer** currently working at **Let's Pair Education**. I love building things and solving problems.
 
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, C++/C, SQL
