@@ -2,7 +2,6 @@
 
 I'm a **Software Engineer** / **Full-Stack Developer** currently working at **[Let's Pair Education](https://www.letspair.ca)**. I love building things and solving problems.
 
----
 
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, C++/C, SQL
@@ -29,4 +28,4 @@ I'm a **Software Engineer** / **Full-Stack Developer** currently working at **[L
 ## 📞 Connect With Me!
 - 💼 [LinkedIn](https://www.linkedin.com/in/rico-chao)
 - 🌐 [GitHub](https://github.com/ChicoRao)
-- 📧 Email: ricochao114Wgmail.com
+- 📧 Email: ricochao114@gmail.com
